@@ -1,0 +1,30 @@
+.card {
+  font-family: sans-serif;
+  margin: 0 auto;
+  width: 250px;
+  padding: 0 30px 30px 30px;
+  box-shadow: 0px 15px 25px -10px rgba(34, 60, 80, 0.42);
+  border-radius: 5px;
+}
+
+.btn {
+  width: 150px;
+  height: 30px;
+  text-decoration: none;
+  background: #888;
+  cursor: pointer;
+  padding-top: 12px;
+  color: white;
+  text-align: center;
+  display: block;
+  font: normal 16px arial;
+  border-radius: 5px;
+}
+
+.card-body-stars {
+  display: flex;
+  column-gap: 10px;
+  list-style-type: none;
+  padding: 0;
+}
+
